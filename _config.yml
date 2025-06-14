@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/ak.jpg
 # author name
-author: fi3ework
+author: Aiden Kao
 # signature
-signature: witness me
+signature: 睡在梦里 醒在梦境
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: forclh@gmail.com
+  github: //github.com/forclh
   # wechat should be a path of qr-code image path
-  wechat: /assets/example_qr.png
+  wechat: /assets/wechat_qr.jpg
   # qq should be a path of qr-code image path
   qq: 
   telegram: 
@@ -62,19 +62,25 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: AK' Blog
 # keywords for site (good for SEO)
 SEO_keywords:
-  - hexo
+  - 'hexo'
   - 'hexo-theme'
   - 'hexo-blog'
+  - 'Aiden Kao'
+  - 'AK'
+  - 'forclh'
+  - 'forclh.top'
+  - 'forclh.github.io'
+  - 'forclh.github.io'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: AK's Blog.
 # subtitle
 subtitle: it's better to burn out than to fade away
-# site haeder image
+# site header image
 site_header_image: /intro/index-bg.jpg
-# post haeder image
+# post header image
 post_header_image: /intro/post-bg.jpg
 # 404 image
 _404_image: /intro/404-bg.jpg
@@ -205,7 +211,7 @@ outdated_threshold:
   specify_article: false
 # Mermaid Chart: https://github.com/knsv/mermaid
 mermaid:
-  enable: false
+  enable: true
   # Version number '8' is for the latest '8.x' version of Mermaid.
   version: 8.11.0
   theme: dark
