@@ -1,0 +1,50 @@
+index:
+  index: 首页
+
+archive:
+  index: 归档
+
+tags:
+  index: 标签
+
+categories:
+  index: 分类
+
+about:
+  index: 关于
+  
+links:
+  index: 友链
+
+timeline: 时间轴
+
+post:
+  top: 置顶
+  reading_time: 阅读时间 %s 分钟
+  word_count: 共 %s 字
+  visit_count: 被访问 %s 次
+  copyright_title: 版权声明
+  last_modify: 更新日期：
+  date: 发表日期：
+  
+pagination:
+  prev: 上一页
+  next: 下一页
+  
+social:
+  email: 邮箱
+  wechat: 微信
+  qq: QQ
+  github: GitHub
+  weibo: 微博
+  zhihu: 知乎
+  rss: RSS
+  facebook: Facebook
+  twitter: Twitter
+  instagram: Instagram
+  stack-overflow: Stack Overflow
+  linkedin: LinkedIn
+  others: 其他
+
+search:
+  placeholder: 搜索...
